@@ -1,0 +1,28 @@
+.h-1{
+  color: #ffffff;
+  background-color:#003366;
+  margin-top: 0%;
+  padding: 1px;
+  text-align: center;
+}
+.navbar-brand{
+  width: 100px;
+}
+.butn{
+  background-color:#450263;
+  border-radius: 10px;
+}
+
+.footer{
+  background-color: #450263;
+  color: #ffffff;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
